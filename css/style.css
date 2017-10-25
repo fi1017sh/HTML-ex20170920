@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#top{
+    max-width: 960px;
+    height: 60px;
+    background-image: linear-gradient(rgb(181, 249, 255), rgb(95, 163, 255));
+    margin: 0 auto 1px auto;
+    -webkit-border-radius: 20px;
+}
+#personal{
+    max-width: 960px;
+    /*background-image: linear-gradient(rgb(181, 249, 255), rgb(95, 163, 255));*/
+    margin: 0 auto auto auto;
+    font-size: large;
+    text-align: center;
+    -webkit-border-radius: 0px;
+}
