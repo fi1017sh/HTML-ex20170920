@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="febbef40-1f95-49d9-b719-1252599855f4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/file/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/file/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/file/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/file/page2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/teacher/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="febbef40-1f95-49d9-b719-1252599855f4" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -164,7 +156,7 @@
       <workItem from="1505873963693" duration="4710000" />
       <workItem from="1506478332259" duration="6074000" />
       <workItem from="1508898130758" duration="5683000" />
-      <workItem from="1509458949000" duration="304000" />
+      <workItem from="1509458949000" duration="319000" />
     </task>
     <task id="LOCAL-00001" summary="1st-html">
       <created>1505874974672</created>
@@ -194,11 +186,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508904144133</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="3">
+      <created>1509459268652</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1509459268652</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16771000" />
+    <option name="totallyTimeSpent" value="16786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-55" y="0" width="1339" height="788" extended-state="0" />
@@ -233,7 +232,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st-html" />
     <MESSAGE value="2nd-html" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd-html" />
+    <MESSAGE value="3" />
+    <option name="LAST_COMMIT_MESSAGE" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
