@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="febbef40-1f95-49d9-b719-1252599855f4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/login.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index2.html" afterPath="$PROJECT_DIR$/index2.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -196,7 +190,7 @@
       <workItem from="1506478332259" duration="6074000" />
       <workItem from="1508898130758" duration="5683000" />
       <workItem from="1509458949000" duration="319000" />
-      <workItem from="1509501040882" duration="7937000" />
+      <workItem from="1509501040882" duration="7980000" />
     </task>
     <task id="LOCAL-00001" summary="1st-html">
       <created>1505874974672</created>
@@ -240,11 +234,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509503109576</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="4">
+      <created>1509508994914</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1509508994914</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24723000" />
+    <option name="totallyTimeSpent" value="24766000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="56" width="1760" height="941" extended-state="0" />
@@ -281,7 +282,8 @@
     <MESSAGE value="1st-html" />
     <MESSAGE value="2nd-html" />
     <MESSAGE value="3" />
-    <option name="LAST_COMMIT_MESSAGE" value="3" />
+    <MESSAGE value="4" />
+    <option name="LAST_COMMIT_MESSAGE" value="4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
